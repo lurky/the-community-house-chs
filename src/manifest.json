@@ -1,11 +1,11 @@
 {
-  "name": "my-project",
-  "short_name": "my-project",
+  "name": "The Community House Charleston",
+  "short_name": "The Community House",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#fff",
-  "theme_color": "#673ab8",
+  "background_color": "#c4a97a",
+  "theme_color": "#4e6136",
   "icons": [
     {
       "src": "/assets/icons/android-chrome-192x192.png",
