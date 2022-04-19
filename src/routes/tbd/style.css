@@ -1,0 +1,27 @@
+.tbd {
+	background-image: url(../../assets/icons/kids+.jpg);
+	height: 98vh;
+    display: grid;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo img {
+	border-radius: 50%;
+	margin-top: 25vh;
+}
+
+.msg {
+    width: 25vw;
+    font-family:serif;
+    margin-top: 5vh;
+    margin-left: 37.5%;
+    text-align:center;
+    display: block;
+    background-color: #f0e7e1;
+    height: 8vh;
+}
