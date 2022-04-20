@@ -7,7 +7,13 @@ html {
 }
 body {
 	min-height: 98%;
+	background-image: url(../assets/icons/kids+.jpg);
+	height: auto;
+	max-width: 100%;
+	display: grid;
+	background-repeat: no-repeat;
 }
+
 #app {
 	height: 100%;
 }
