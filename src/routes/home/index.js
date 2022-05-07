@@ -4,7 +4,7 @@ import style from './style.css';
 const Home = () => (
 	<div class={style.home}>
 		<div class={style.logo}>
-			<img src='./assets/icons/logo.png' height={300} width={300} />
+			<img src='./assets/icons/logo-min.png' height={300} width={300} />
 		</div>
 	</div>
 );
