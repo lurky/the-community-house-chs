@@ -4,10 +4,9 @@
 }
 .aboutMission {
     margin-left: 5vw;
-    padding: 1rem;
+    padding: .5rem;
     display: inline;
 }
-
 
 .aboutMission > h1 {
     color: #ffffff;
@@ -16,7 +15,7 @@
 }
 .aboutMission > p {
     color: #ffffff;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
     padding: 1rem;
     text-align:justify center;
     background-color: rgba(95, 70, 70, 0.85);
@@ -28,8 +27,9 @@
 
 .aboutFounders img {
     border-radius: 50%;
-    padding-top: 1rem;;
-    height: 25rem;
+    margin-top: 5vh;
+    padding: .5rem;;
+    height: 23rem;
     width: 20rem;
     float: left;
 }
