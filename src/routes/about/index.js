@@ -4,7 +4,7 @@ import style from './style.css';
 const About = () => (
     <div className={style.about}>
         <div className={style.aboutFounders}>
-            <img src='./assets/icons/founders.jpg' />
+            <img src='./assets/icons/founders.png' />
         </div>
         <div class={style.aboutMission}>
             <h1>Our Mission</h1>
